@@ -1,4 +1,4 @@
 - 🙋‍♂️ Hi, I’m @TheLinuxSeal
-- 👀 I’m interested in coding on Python and https://scratch.mit.edu
+- 👀 I’m interested in coding on Java and Python
 - 🐧 I also use Linux, and I use Arch BTW
 - 👍 My favorite animal is a 🦭 (seal)
